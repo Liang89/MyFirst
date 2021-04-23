@@ -9,7 +9,7 @@ This is my college ↓!
 #### Ah!THis are pictures of my school! Let me show you!
 ![scene](school.jpg "行政楼")
 
-![scene](https://bkimg.cdn.bcebos.com/pic/e1fe9925bc315c604054799d8db1cb13485477fa?x-bce-process=image/resize,m_lfit,w_220,limit_1/format,f_auto "东荣大厦")
+![scene](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fzsb.jlu.edu.cn%2FPublic%2Fuploads%2FPages%2F2020-03-09%2F5e65d03c8c9ae.jpg&refer=http%3A%2F%2Fzsb.jlu.edu.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1621783807&t=3fce36b05a385dbae0a73730143f8173 "东门")
 
 <!--code block-->
 ```C
