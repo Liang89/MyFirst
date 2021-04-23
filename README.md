@@ -50,7 +50,7 @@ ___
 | Sphoia    | 22        |  82146597
 | John      | 25        |  83547826
 <!--bolded text,italicized text and strikethrough text-->
-Do u think I'm an **interesting** girl? I like make friends with different people!Just connect with me!My WeChat is ~~1383838564~~(Don't believe!)
+Do u think I'm an **interesting** girl? I like *make friends* with different people!Just connect with me!My WeChat is ~~1383838564~~(Don't believe!)
 
 #### If u want to go to First, please click this ↓!
 
